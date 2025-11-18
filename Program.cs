@@ -4,6 +4,9 @@ namespace WarehouseSystem
     {
         public static void Main(string[] args)
         {
+            
+            WarehouseService.Run();
+            
         }
     }
 }
